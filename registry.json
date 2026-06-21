@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "updated_at": "2026-06-21T00:00:00Z",
+  "extensions": [
+    {
+      "id": "joox-web",
+      "name": "joox-web",
+      "display_name": "JOOX",
+      "version": "1.0.0",
+      "description": "JOOX metadata and download provider for SpotiFLAC Mobile.",
+      "download_url": "http://raw.githubusercontent.com/XzNapi/extensions/main/joox.ext",
+      "category": "download",
+      "tags": [
+        "joox",
+        "download",
+        "lossless",
+        "metadata",
+        "search"
+      ],
+      "downloads": 0,
+      "updated_at": "2026-06-21T00:00:00Z",
+      "min_app_version": "4.5.0"
+    },
+    {
+      "id": "netease-web",
+      "name": "netease-web",
+      "display_name": "NetEase Cloud Music",
+      "version": "1.0.0",
+      "description": "NetEase Cloud Music metadata and download provider for SpotiFLAC Mobile.",
+      "download_url": "http://raw.githubusercontent.com/XzNapi/extensions/main/netease.ext",
+      "category": "download",
+      "tags": [
+        "netease",
+        "download",
+        "lossless",
+        "metadata",
+        "search"
+      ],
+      "downloads": 0,
+      "updated_at": "2026-06-21T00:00:00Z",
+      "min_app_version": "4.5.0"
+    }
+  ]
+}
